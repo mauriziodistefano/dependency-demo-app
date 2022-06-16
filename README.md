@@ -21,3 +21,5 @@ Demo project to show different ways of fixing vulnerabilities found in Maven bas
 |Unused Vulnerable feature | quartz-2.0.1.jar | [CVE-2019-13990](https://nvd.nist.gov/vuln/detail/CVE-2019-13990) | Review and supress |
 
 
+
+
